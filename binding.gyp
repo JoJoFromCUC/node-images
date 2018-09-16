@@ -10,7 +10,7 @@
     'targets': [{
         'target_name': 'binding',
         'sources': [
-            'src/Image.cc',
+            'src/Image.1.cc',
             'src/Resize.cc',
             'src/resampler.cpp'
         ],
